@@ -1,0 +1,17 @@
+#outContainer{
+    border: 3px solid blue;
+    text-align: center;
+    padding: 5px;
+}
+#img{
+    height: 30px;
+    width: 30px;
+    border-radius: 30px;
+
+}
+#inContainer{
+    border: 1px solid black;
+}
+#h1{
+    display: inline-block;
+}
